@@ -1,0 +1,44 @@
+{
+  "seminars": [
+    {
+      "id": "1",
+      "title": "Новинки Kosmoteros",
+      "description": "Обзор новых средств и методик от Kosmoteros.",
+      "date": "01.02.2025",
+      "time": "10:00",
+      "photo": "https://www.sunhome.ru/i/wallpapers/122/oboi-nebo-i-more.orig.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Семинар по инновациям в косметологии",
+      "description": "Разбор новейших тенденций в косметологии и трендовых продуктов.",
+      "date": "03.02.2025",
+      "time": "11:00",
+      "photo": "https://puzzleit.ru/files/puzzles/144/144348/_original.jpg"
+    },
+    {
+      "title": "33334444",
+      "description": "4343434",
+      "date": "2025-02-11",
+      "time": "22:12",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5y_CQNi9oiqn96_0204tGgLQuUxigGKLe1w&s",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "title": "Эффективные методики омоложения",
+      "description": "Обучение современным методикам омоложения и ухода за кожей.",
+      "date": "11.02.2025",
+      "time": "15:00",
+      "photo": "https://beautifulwashington.com/images/amazing-wa-1-4k/mowich-lake-road-mount-rainier-national-park.jpg"
+    },
+    {
+      "id": "f7fa",
+      "title": "werwer",
+      "description": "werwerwerwer",
+      "date": "2025-02-13",
+      "time": "22:01",
+      "photo": "https://cdn.culture.ru/images/ac76b0cb-dfdb-5869-878c-d4edbfca8875"
+    }
+  ]
+}
